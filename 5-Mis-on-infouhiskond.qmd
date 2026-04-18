@@ -3,13 +3,13 @@
 ::: {.callout-tip icon="false"}
 ## Peatükk annab ülevaate
 
--   ühiskonna erinevatest liikidest,
+- ühiskonna erinevatest liikidest,
 
--   digilõhest Eesti ühiskonnas,
+- digilõhest Eesti ühiskonnas,
 
--   e-teenustest infoühiskonnas,
+- e-teenustest infoühiskonnas,
 
--   teenusedisaini olulisusest e-teenuste loomisel.
+- teenusedisaini olulisusest e-teenuste loomisel.
 :::
 
 ## Sissejuhatus infoühiskonda
@@ -23,15 +23,17 @@
 
 Lisaks nendele liikidele on päevapoliitikas sagedasti kasutusel ka
 
--   **infoühiskond (informatsiooni tähtsustav ja kasutav),**
+- **infoühiskond (informatsiooni tähtsustav ja kasutav),**
 
--   teadmusühiskond (teadusuuringute tulemusi tähtsustav ja kasutav),
+- teadmusühiskond (teadusuuringute tulemusi tähtsustav ja kasutav),
 
--   kodanikuühiskond (vabad kodanikud, kes on haritud, laia silmaringiga, vaimselt ja materiaalselt sõltumatud, juhivad ühiskonda ise),
+- kodanikuühiskond (vabad kodanikud, kes on haritud, laia silmaringiga, vaimselt ja materiaalselt sõltumatud, juhivad ühiskonda ise),
 
--   heaoluühiskond (lahendus sotsiaalriigist, kus on saavutatud kõrge elatustase ja kodanike sotsiaalne turvalisus).
+- heaoluühiskond (lahendus sotsiaalriigist, kus on saavutatud kõrge elatustase ja kodanike sotsiaalne turvalisus).
 
 Kõiki neid liike kombineeritakse selleks, et tagada inimestele ja looduskeskkonnale jätkusuutlik elu. Kuidas on õige või millise tee erinevad riigid valivad, selgub selle riigi poliitikast ning riigi juhtide ja kodanike kokkuleppest. Õpiku kontekstis räägime kõige enam infoühiskonnast.
+
+Tere mina olen lõik.
 
 ::: {.callout-note icon="false"}
 ## Definitsioon: infoühiskond
@@ -41,9 +43,9 @@ Infoühiskond on infot tähtsustav ja seda kõigis eluvaldkondades maksimaalselt
 
 Infoühiskonna idee taga seisavad nii UNESCO kui Euroopa Liit.
 
--   UNESCO: "Infoühiskond peab kindlalt toetuma inimeste põhiõigustele ja -vabadustele ning kindlustama õiguse haridusele, kultuurile ja sõnavabadusele tegelikkuses, kaitstes ja tugevdades teabe kui avaliku [hüve](https://et.wikipedia.org/wiki/H%C3%BCve "Hüve") positsioone, toetades kultuuride ja keelte mitmekesisust, tagades võimalikult laiapõhjalise juurdepääsu infole hariduslikel ja kultuurilistel eesmärkidel ning arendades kõrgekvaliteedilist, mitmepalgelist ja usaldusväärset võrgusisu." ([Vikipeedia, Infoühiskond](https://et.wikipedia.org/wiki/Info%C3%BChiskond)).
+- UNESCO: "Infoühiskond peab kindlalt toetuma inimeste põhiõigustele ja -vabadustele ning kindlustama õiguse haridusele, kultuurile ja sõnavabadusele tegelikkuses, kaitstes ja tugevdades teabe kui avaliku [hüve](https://et.wikipedia.org/wiki/H%C3%BCve "Hüve") positsioone, toetades kultuuride ja keelte mitmekesisust, tagades võimalikult laiapõhjalise juurdepääsu infole hariduslikel ja kultuurilistel eesmärkidel ning arendades kõrgekvaliteedilist, mitmepalgelist ja usaldusväärset võrgusisu." ([Vikipeedia, Infoühiskond](https://et.wikipedia.org/wiki/Info%C3%BChiskond)).
 
--   Euroopa Liit seisab juurdepääsu tagamise (internet, kommunikatsioonivõrkude ehitamine), võrgusisu ja elektrooniliste teenuste arendamise, arvuti- ja infokirjaoskuse levitamise, avaliku ja erasektori koostöö soodustamise, monopoolsete ettevõtete tekkimise vältimise eest infoturul. ([Vikipeedia, Infoühiskond](https://et.wikipedia.org/wiki/Info%C3%BChiskond)).
+- Euroopa Liit seisab juurdepääsu tagamise (internet, kommunikatsioonivõrkude ehitamine), võrgusisu ja elektrooniliste teenuste arendamise, arvuti- ja infokirjaoskuse levitamise, avaliku ja erasektori koostöö soodustamise, monopoolsete ettevõtete tekkimise vältimise eest infoturul. ([Vikipeedia, Infoühiskond](https://et.wikipedia.org/wiki/Info%C3%BChiskond)).
 
 Infoühiskonna toimimiseks on vaja riigis viia miinimumini digilõhe (ligipääsude ja oskuste erinevus), mis tekitab ebavõrdsust ([Vikipeedia, Digilõhe](https://et.wikipedia.org/wiki/Digil%C3%B5he)).
 
@@ -111,16 +113,8 @@ Arendamaks parimaid e-teenuseid, on vaja, et need oleksid kliendile kasutatavad 
 
 Täpsemalt saab teenusedisaini kohta lugeda siit ([Vikipeedia, Teenusedisain](https://et.wikipedia.org/wiki/Teenusedisain)). Vaata videost, kuidas kasutada teenusedisaini ja kus seda saab õppida.
 
-<iframe 
-    class="yt-video" 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/w5XpcDnEgE0?enablejsapi=1" 
-    title="YouTube video player" 
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
+<iframe class="yt-video" width="560" height="315" src="https://www.youtube.com/embed/w5XpcDnEgE0?enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
 </iframe>
 
 Järgmises peatükis, E-riik ja e-teenused, vaatame lähemalt, kuidas toimivad e-teenused Eestis.
@@ -131,12 +125,12 @@ Järgmises peatükis, E-riik ja e-teenused, vaatame lähemalt, kuidas toimivad e
 
 ## Lisalugemiseks
 
--   Lood Eesti IT-inimestest ja ajaloost. Lood ja mõtted kuulatavad <https://open.spotify.com/show/6cCAgaJE7TW2UsArFswWID>
+- Lood Eesti IT-inimestest ja ajaloost. Lood ja mõtted kuulatavad <https://open.spotify.com/show/6cCAgaJE7TW2UsArFswWID>
 
--   Kasutatud kirjandus: Vikipeedia <https://et.wikipedia.org/>
+- Kasutatud kirjandus: Vikipeedia <https://et.wikipedia.org/>
 
--   Kasutatud pildid: Pixabay  <https://pixabay.com/>
+- Kasutatud pildid: Pixabay  <https://pixabay.com/>
 
--   Gümnaasiumi kursus Digiteenused "[Ettevõttluskeskkond ja digiteenuste loomise juhtimine](https://web.htk.tlu.ee/digitaru/digiteenused/chapter/riik-eraettevottlus-ja-digiteenused/)" ja ["Digiteenuste arendamine](https://web.htk.tlu.ee/digitaru/digiteenused/chapter/digiteenuste-arendamine/)"
+- Gümnaasiumi kursus Digiteenused "[Ettevõttluskeskkond ja digiteenuste loomise juhtimine](https://web.htk.tlu.ee/digitaru/digiteenused/chapter/riik-eraettevottlus-ja-digiteenused/)" ja ["Digiteenuste arendamine](https://web.htk.tlu.ee/digitaru/digiteenused/chapter/digiteenuste-arendamine/)"
 
 **Anna materjalile tagasiside siin: [Materjalile tagasiside andmine](https://docs.google.com/forms/d/e/1FAIpQLSdh4JhjvgTeK6uuQsjRx4ebyb6Ab4TtTNVQAmZBMBqq_KkftA/viewform)**
